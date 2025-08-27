@@ -1,6 +1,15 @@
-# 💫 About Me:
-I am Kunal, a passionate and dedicated Full Stack Web Developer currently pursuing my B.Tech in Computer Science at JECRC University. I specialize in building modern, scalable, and user-friendly applications using the MERN stack, FastAPI, and various other technologies. With hands-on experience in both frontend and backend development, I enjoy solving real-world problems through clean code, optimized architectures, and creative solutions. Beyond academics, I am constantly exploring new tools, frameworks, and project ideas to sharpen my skills and stay updated with industry trends. My goal is to create impactful digital solutions while continuously growing as a developer and innovator.
+💫 **About Me**
 
+👋 Hi, I’m Kunal!  
+I am a passionate and dedicated **Full Stack Web Developer**, currently pursuing my **B.Tech in Computer Science** at **JECRC University**.  
+
+💻 I specialize in building **modern, scalable, and user-friendly applications** using the **MERN stack, FastAPI**, and various other technologies.  
+
+🚀 With hands-on experience in both **frontend and backend development**, I enjoy solving real-world problems through **clean code**, **optimized architectures**, and **creative solutions**.  
+
+🌱 Beyond academics, I am constantly exploring **new tools, frameworks, and project ideas** to sharpen my skills and stay updated with **industry trends**.  
+
+🎯 My goal is to create **impactful digital solutions** while continuously growing as a **developer and innovator**.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/538SJBz4) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/official.kunall) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kunal-kumawat) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kunalcodesYT) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kunalkumawat393@gmail.com) 
