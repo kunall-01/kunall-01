@@ -27,7 +27,7 @@ My goal is to create impactful digital solutions while continuously growing as a
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kunalkumawat393@gmail.com)  
 
 
-✨ Stay updated with the latest tutorials and projects by following me on **GitHub, LinkedIn, and YouTube**
+✨ Stay updated with the latest tutorials and projects by following me on **GitHub, LinkedIn, and YouTube**!
 
 #
 
