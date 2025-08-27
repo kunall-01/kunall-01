@@ -40,19 +40,24 @@ My goal is to create impactful digital solutions while continuously growing as a
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=kunall-01&theme=dark&hide_border=false)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunall-01&layout=compact&theme=dark&hide_border=false&cache_seconds=7200&v=1)
 
-
----
+ 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kunall-01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+ 
+#
 
----
+### 📌 Thought for Developers 
 
-### 📌 Thought for Developers
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+#
+ 
+### 🔝 Top Contributed Repo
 
+![](https://github-contributor-stats.vercel.app/api?username=kunall-01&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+ 
 [![](https://visitcount.itsvg.in/api?id=kunall-01&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
